@@ -1,5 +1,5 @@
 
-# PwC Switzerland Power BI in Data Analytics Virtual Case Experience
+# PwC Power BI in Data Analytics Virtual Case Experience
 
 We aim to build innovative technology solutions that differentiate us from our competitors and digitise the business. Part of that included a strategic decision to invest in upskilling programmes so our people could learn how to use digital tools for data visualisation as well as automation, data cleansing and more.
 
